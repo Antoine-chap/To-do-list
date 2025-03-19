@@ -1,14 +1,5 @@
 import {addTodo} from "./components/addTodo.js"
-import { getTasks } from "./components/getTasks.js";
-
-
-
-
-
-
-
-
-
+import {getTasks} from "./components/getTasks.js";
 
 
 const buttonTodo = document.querySelector("#buttonTodo");
