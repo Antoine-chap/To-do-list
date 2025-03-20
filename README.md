@@ -1,8 +1,8 @@
 # To-do-list
-project todolist
+[Voir le projet en ligne](https://antoine-chap.github.io/To-do-list/)
 # Structure du projet
 
-Ce projet utilise **Vite** pour un développement rapide en JavaScript vanilla. Voici l'organisation des fichiers et dossiers :
+Ce projet utilise JavaScript vanilla. Voici l'organisation des fichiers et dossiers :
 
 ## 📂 src/
 Contient l'ensemble du code source de l'application.
